@@ -16,7 +16,7 @@
 * Date Completed
   * 10/23/2019
 
-## Searchbar
+### Searchbar
 
 * Description
   * Object to create Search Bar
